@@ -25,11 +25,10 @@ router.post('/user/login',loginUser)
 // Ruta para realizar el cierre de sesión
 router.post('/user/logout',logoutUser)
 
-
 // Ruta para confirmar la cuenta del usuario
-router.get('/user/confirmar/:token',confirmEmail)
-
-
-
+router.get('/user/confirmar/:token', (req, res) => {
+    const token = req.params.token;
+    res.render('LoginForm', { token, baseUrl: req.baseUrl });
+  });
 // Exportar la variable router
 module.exports = router
