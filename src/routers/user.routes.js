@@ -26,9 +26,14 @@ router.post('/user/login',loginUser)
 router.post('/user/logout',logoutUser)
 
 // Ruta para confirmar la cuenta del usuario
+// Cambiar la redirección en la ruta de confirmación de cuenta
 router.get('/user/confirmar/:token', (req, res) => {
     const token = req.params.token;
-    res.render('LoginForm', { token, baseUrl: req.baseUrl });
+    const confirmationURL = `${req.protocol}://${req.get('host')}/user/confirmar/${token}`;
+    // Lógica adicional si es necesario
+    confirmEmail(req, res, confirmationURL);
   });
+  
+
 // Exportar la variable router
 module.exports = router
