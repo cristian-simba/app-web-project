@@ -1,23 +1,20 @@
 # PORTAFOLO WEB 
 
 ## Authors
+-[@cristian-simba](https://github.com/cristian-simba)
 
--[@Morales-Gilmar-Vladimir](https://github.com/Morales-Gilmar-Vladimir)
+## Conectar a Base de Datos
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/2cd4e9c0-9c5e-4f9f-9e38-24d0d187ff46)
 
+## Registro de Usuario con Correo
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/ab32b457-4405-4280-8ebe-25f2cc115b01)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/8eacab44-3393-451c-a63d-d117ccbf2eb0)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/1212d6ee-d351-4dfc-8981-85a3adb1ed1b)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/98dcdda8-d39c-49f7-941f-785d7d05f1e4)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/3d5ea93f-4c5e-41d1-a4d4-cfa222921814)
 
-## Capturas CRUD
-![image](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/a735df0e-e4d2-4d93-934a-1f6152ea5bec)
-![image](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/84a8bb8e-38fc-48eb-b832-22ec2ec55dfe)
-![image](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/bbe402d7-0d39-40a0-a67e-c65dd0c0ee22)
-![image](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/c02c772b-3022-4f30-8bfa-96c20984036b)
+## Formulario de Contacto
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/daa5bd0c-a8e0-489d-ae3f-0f595d0dc7c2)
 
-## Capturas Registro de usuario y login del usuario
-![WhatsApp Image 2023-12-22 at 09 47 13](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/ca738912-171f-4d13-90e9-34dd727da9c7)
-![WhatsApp Image 2023-12-22 at 09 47 47](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/cc44ba81-b44f-439f-8b7a-3ee1b056c879)
-
-## Capturas Claudinary Imagenes
-![WhatsApp Image 2023-12-22 at 09 54 11](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/ece94aed-1ebb-4e81-a53e-98c052fda00f)
-![WhatsApp Image 2023-12-22 at 09 54 27](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/04742f64-41dd-49e3-9e91-f3fd5f12f6b5)
-![WhatsApp Image 2023-12-22 at 09 55 02](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/2e9581be-26a0-4e0b-8fd5-fb879beb6dc0)
 
 
