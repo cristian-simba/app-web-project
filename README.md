@@ -1,7 +1,7 @@
 # PORTAFOLO WEB 
 
 ## Authors
--[@cristian-simba](https://github.com/cristian-simba)
+- [@cristian-simba](https://github.com/cristian-simba)
 
 ## Conectar a Base de Datos
 ![image](https://github.com/cristian-simba/app-web-project/assets/117742977/2cd4e9c0-9c5e-4f9f-9e38-24d0d187ff46)
