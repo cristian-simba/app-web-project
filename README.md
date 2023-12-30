@@ -14,7 +14,10 @@
 ![image](https://github.com/cristian-simba/app-web-project/assets/117742977/3d5ea93f-4c5e-41d1-a4d4-cfa222921814)
 
 ## Formulario de Contacto
-![image](https://github.com/cristian-simba/app-web-project/assets/117742977/daa5bd0c-a8e0-489d-ae3f-0f595d0dc7c2)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/2abad9ea-c7e5-4080-9b5c-bdd15a45e426)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/739a75aa-faef-4eb9-a61d-d776e8cf76fd)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/c5408a33-4176-4465-b230-94d290cf5a9c)
+
 
 
 
