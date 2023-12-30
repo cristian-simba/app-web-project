@@ -1,5 +1,5 @@
 # PORTAFOLO WEB 
-## Authors
+## Author
 - [@cristian-simba](https://github.com/cristian-simba)
 ## Enlace a Portafolio Web
 https://portafolios-web-siaz.onrender.com/
